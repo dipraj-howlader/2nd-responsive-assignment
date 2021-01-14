@@ -1,0 +1,84 @@
+.penguin-img img{
+    width: 180px;
+    height: 28px;
+}
+.nav-color{
+    color: #3C3C3C;
+}
+.girl-image img{
+    width: 100%;
+}
+.bg-color{
+    background-color: rgba(255, 227, 170, 0.281);
+}
+.personal-font{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 1400px;
+    line-height: 80px;
+    font-size: 80px;
+}
+.yellow-color{
+    color: #FABE4C;
+}
+.blue-color{
+    color: #363958;
+}
+p{
+    color: #3E3E3E;
+}
+.link , .link-2{
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient(180deg,#A4BC46,#779110);
+}
+.link{
+    padding: 12px 30px;
+}
+.link-2{
+    padding: 10px 20px;
+}
+.link:hover, .link-2:hover{
+    color: gainsboro;
+    box-shadow: gray;
+}
+.icon img{
+    width:24px;
+    height: 24px;
+    margin: 5px;
+    padding: 2px;
+    margin-top:2px;
+}
+.panda-card{
+    border: 0px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.img-bg-color{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    padding: 20px;
+}
+.photo-size{
+    height: 334px;
+}
+.footer-last-img img{
+    width: 100%;
+
+}
+.footer-fst-img img{
+    height: 100px;
+    width: 100px;
+}
+.footer-bg{
+    padding: 10px;
+    margin: 15px;
+}
+@media (max-width:668px){
+    
+    
+}
