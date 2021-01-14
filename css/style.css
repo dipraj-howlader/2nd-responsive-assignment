@@ -67,18 +67,20 @@ p{
     height: 334px;
 }
 .footer-last-img img{
-    width: 100%;
+    width: 120%;
+    padding-right: 20%;
 
 }
 .footer-fst-img img{
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
+    padding: 2px;
 }
 .footer-bg{
     padding: 10px;
     margin: 15px;
 }
-@media (max-width:668px){
-    
-    
+.res-foot{
+    padding: 10px;
+    margin: 5px;
 }
