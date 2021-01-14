@@ -84,3 +84,26 @@ p{
     padding: 10px;
     margin: 5px;
 }
+.last-sec{
+    background-color: teal;
+    color: wheat;
+    margin: 20px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+input[type=text]{
+    border: 2px solid rgb(187, 212, 73);
+    border-radius: 4px;
+    padding: 12px 20px;
+    color: white;
+    background-color: turquoise;
+}
+input[type=submit]
+{
+    background-color: slategray;
+    color: tan;
+}
+.last{
+    text-align: center;
+    font-size: 15px;
+}
